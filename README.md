@@ -72,7 +72,7 @@ Skin: May cause skin irritation.
 Ingestion: May cause irritation of the digestive tract. Low hazard for usual industrial handling.
 
 ## References:
-1. [Indirect_flow_cytometry-(FACS)_protocol](https://docs.abcam.com/pdf/protocols/Indirect_flow_cytometry-(FACS)_protocol.pdf)
+1. Indirect flow cytometry (FACS) protocol. [Link](https://docs.abcam.com/pdf/protocols/Indirect_flow_cytometry-(FACS)_protocol.pdf)
 
 <footer>
 
