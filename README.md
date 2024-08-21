@@ -9,7 +9,7 @@
 
 # Jurkat-T cells fixation
 
-_Fix or not to fix. _
+_Fix or not to fix._
 
 </header>
 
