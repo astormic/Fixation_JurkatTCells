@@ -22,9 +22,11 @@ _Fix or not to fix._
 -->
 
 ## Materials:
-PFA (Paraformaldehyde)
-GA (Glutaraldehyde)
-PBS (Phosphate-buffered saline)
+- PFA (Paraformaldehyde)
+
+- GA (Glutaraldehyde)
+
+- PBS (Phosphate-buffered saline)
 
 ## Methods:
 ### Prepare 1x PBS
@@ -34,14 +36,15 @@ PBS (Phosphate-buffered saline)
 4. Filter the PBS solution using 50 ml plastic syringe and 0.22 um nylon filter.
 
 ### Fixation
-1. Put a beaker containing more than 10 ml water into a fume cupboard (for washing the ampules later).
-2. Dilute 16% PFA (Paraformaldehyde) into 1% using PBS (Phosphate-buffered saline): pipette 15 ml PBS into a plastic tube using 10ml pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 1ml PFA into the same tube inside the fume cupboard. Put ampule with left-over PFA into a waste bottle:
-3. Dilute 70% GA (Glutaraldehyde) into 2% using PBS: pipette 8.5 ml PBS into aplastic tube using 10ml pipette, stand ti safely using a plastic holder, put on thick nitrile gloves, pipette 250 ul GA into the same tube inside the fume cupboard. Put ampule with left-over GA into a waste bottle.
-4. Mixing 1ml 1% PFA with 01. ml 2% GA with centrifuged cels (procedure to make centrifuged cels se "Wash_Cells_COSHH_106_ZW.doc') in PBS, put the mixture in fridge.
-5. Wait for 30 minutes, wash PFA and GA away using PBS. Pipette wastewater into halogenated waste container.
-6. Keep diluted PFA and GA in fridge for up to a week, then dispose them into halogenated waste container. Rinse the container plastic tubes 3 times using water and pour the wastewater into halogenated waste
+1. Put a beaker containing more than 10mL water into a fume cupboard (for washing the ampules later).
+2. **Dilute 16% PFA into 1% using PBS:** pipette 15mL PBS into a plastic tube using 10mL pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 1mL PFA into the same tube inside the fume cupboard. Put ampule with left-over PFA into a waste bottle. 
+3. **Dilute 70% GA into 2% using PBS:** pipette 8.5 ml PBS into aplastic tube using 10ml pipette, stand ti safely using a plastic holder, put on thick nitrile gloves, pipette 250 ul GA into the same tube inside the fume cupboard. Put ampule with left-over GA into a waste bottle.
+4. Label the cells using primary antibody (see .....)
+5. Mixing 1mL 1% PFA with 0.1 mL 2% GA with centrifuged cells in PBS, put the mixture in fridge.
+6. Wait for 30 minutes, wash PFA and GA away using PBS. Pipette wastewater into halogenated waste container.
+7. Keep diluted PFA and GA in fridge for up to a week, then dispose them into halogenated waste container. Rinse the container plastic tubes 3 times using water and pour the wastewater into halogenated waste
 container.
-7. This process will be repeated every week typically for about 1-4 weeks as required for subsequent cell analysis. Waste bottles wil be sent to disposal every 3 months.
+8. This process will be repeated every week typically for about 1-4 weeks as required for subsequent cell analysis. Waste bottles wil be sent to disposal every 3 months.
  
 ## FAQs: 
 
@@ -64,6 +67,8 @@ Toxic ot aquatic life with long lasting effects.
 Eye: May cause eye irritation.
 Skin: May cause skin irritation.
 Ingestion: May cause irritation of the digestive tract. Low hazard for usual industrial handling.
+
+[Inspired by this protocol](https://docs.abcam.com/pdf/protocols/Indirect_flow_cytometry-(FACS)_protocol.pdf)
 
 <footer>
 
