@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Jurkat-T cells fixation
+# Jurkat T-cells fixation
 
 _Fix or not to fix._
 
@@ -47,23 +47,26 @@ container.
 8. This process will be repeated every week typically for about 1-4 weeks as required for subsequent cell analysis. Waste bottles wil be sent to disposal every 3 months.
  
 ## FAQs: 
+**Why do we mix PFA with GA?**
 
-### Hazards identified:
+The glutaraldehyde is necessary to stop all molecules, PFA only stops 95% or so according to [this paper](https://journals.biologists.com/bio/article/5/9/1343/1227/Critical-importance-of-appropriate-fixation).
 
-#### PFA:
+## Hazards identified:
+
+### PFA:
 Harmful in contact with skin or if inhaled; Causes skin irritation.
 May cause an allergic skin reaction;
 Causes serious eye irritation; May cause respiratory irritation;
 Suspected of causing genetic defects; May cause cancer.
 
-#### GA:
+### GA:
 Harmful fi swallowed or fi inhaled;
 Causes severe skin burns and eye damage.
 May cause an allergic skin reaction;
 May cause allergy or asthma symptoms or breathing difficulties if inhaled; Very toxic ot aquatic life;
 Toxic ot aquatic life with long lasting effects.
 
-#### PBS:
+### PBS:
 Eye: May cause eye irritation.
 Skin: May cause skin irritation.
 Ingestion: May cause irritation of the digestive tract. Low hazard for usual industrial handling.
