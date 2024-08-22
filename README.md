@@ -38,7 +38,7 @@ _Fix or not to fix._
 ### Fixation
 1. Put a beaker containing more than 10mL water into a fume cupboard (for washing the ampules later).
 2. Dilute 16% PFA into 1% using PBS: pipette 15mL PBS into a plastic tube using 10mL pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 1mL PFA into the same tube inside the fume cupboard. Put ampule with left-over PFA into a waste bottle. 
-3. Dilute 70% GA into 2% using PBS: pipette 8.5 ml PBS into aplastic tube using 10ml pipette, stand ti safely using a plastic holder, put on thick nitrile gloves, pipette 250 ul GA into the same tube inside the fume cupboard. Put ampule with left-over GA into a waste bottle.
+3. Dilute 70% GA into 2% using PBS: pipette 8.5 mL PBS into a plastic tube using 10ml pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 250 uL GA into the same tube inside the fume cupboard. Put ampule with left-over GA into a waste bottle.
 4. Label the cells using primary antibody (see .....)
 5. Mixing 1mL 1% PFA with 0.1 mL 2% GA with centrifuged cells in PBS, put the mixture in fridge.
 6. Wait for 30 minutes, wash PFA and GA away using PBS. Pipette wastewater into halogenated waste container.
