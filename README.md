@@ -71,6 +71,8 @@ Eye: May cause eye irritation.
 Skin: May cause skin irritation.
 Ingestion: May cause irritation of the digestive tract. Low hazard for usual industrial handling.
 
+<img src="https://github.com/astormic/PFA_Ampule/blob/main/Centrifuge.jpg" width="340" height="400">
+
 ## References:
 1. Indirect flow cytometry (FACS) protocol. [Link](https://docs.abcam.com/pdf/protocols/Indirect_flow_cytometry-(FACS)_protocol.pdf)
 
