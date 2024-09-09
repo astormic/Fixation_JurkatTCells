@@ -30,14 +30,14 @@ _Fix or not to fix._
 
 ## Methods:
 ### Prepare 1x PBS
-1. Dissolve 1 PBS tablet by 50 ml DI water in a50 ml plastic tube to make 2x PBS.
-2. Pipette 25 ml of 2x PBS into another 50 ml plastic tube.
-3. Pipette 25 ml DI water into both plastic tubes to make 1x PBS.
-4. Filter the PBS solution using 50 ml plastic syringe and 0.22 um nylon filter.
+1. Dissolve 1 PBS tablet by 50 mL water in a 50mL falcon tube to make 2x PBS.
+2. Pipette 25 mL of 2x PBS into another 50mL falcon tube.
+3. Pipette 25 mL water into both falcon tubes to make 1x PBS.
+4. Filter the PBS solution using a 50mL syringe and 0.22 um filter.
 
 ### Fixation
-1. Put a beaker containing more than 10mL water into a fume cupboard (for washing the ampules later).
-2. Dilute 16% PFA into 1% using PBS: pipette 15mL PBS into a plastic tube using 10mL pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 1mL PFA into the same tube inside the fume cupboard. Put ampule with left-over PFA into a waste bottle. 
+1. Put a beaker containing more than 10 mL water into a fume cupboard (purpose? washing the ampules later).
+2. Dilute 16% PFA using PBS to get a 2% PFA solution: pipette ... mL PBS into a plastic tube using 10mL pipette, put on thick nitrile gloves, pipette 1 mL PFA into the same tube inside the fume cupboard. Put ampule with left-over PFA into a waste bottle. 
 3. Dilute 70% GA into 2% using PBS: pipette 8.5 mL PBS into a plastic tube using 10ml pipette, stand it safely using a plastic holder, put on thick nitrile gloves, pipette 250 uL GA into the same tube inside the fume cupboard. Put ampule with left-over GA into a waste bottle.
 4. Label the cells using primary antibody (see .....)
 5. Mixing 1mL 1% PFA with 0.1 mL 2% GA with centrifuged cells in PBS, put the mixture in fridge.
